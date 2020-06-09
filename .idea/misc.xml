@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/s82" />
+    <file type="web" url="file://$PROJECT_DIR$/s82web03" />
+    <file type="web" url="file://$PROJECT_DIR$/s82web07" />
+    <file type="web" url="file://$PROJECT_DIR$/s82web09" />
+    <file type="web" url="file://$PROJECT_DIR$/s82webtomact05" />
+    <file type="web" url="file://$PROJECT_DIR$/s82webtomcat03" />
+    <file type="web" url="file://$PROJECT_DIR$/s82webtomcat06" />
+    <file type="web" url="file://$PROJECT_DIR$/s82webtomcat07" />
+    <file type="web" url="file://$PROJECT_DIR$/s82webtomcat08" />
+    <file type="web" url="file://$PROJECT_DIR$/s82webtomcat09" />
+    <file type="web" url="file://$PROJECT_DIR$/s82webtomcat10" />
+    <file type="web" url="file://$PROJECT_DIR$/s82webtomcat11" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/s82/pom.xml" />
+        <option value="$PROJECT_DIR$/s82webtomcat03/pom.xml" />
+        <option value="$PROJECT_DIR$/s82web03/pom.xml" />
+        <option value="$PROJECT_DIR$/s82webtomact05/pom.xml" />
+        <option value="$PROJECT_DIR$/s82webtomcat06/pom.xml" />
+        <option value="$PROJECT_DIR$/s82webtomcat07/pom.xml" />
+        <option value="$PROJECT_DIR$/s82web07/pom.xml" />
+        <option value="$PROJECT_DIR$/s82webtomcat08/pom.xml" />
+        <option value="$PROJECT_DIR$/s82webtomcat09/pom.xml" />
+        <option value="$PROJECT_DIR$/s82webtomcat10/pom.xml" />
+        <option value="$PROJECT_DIR$/s82webtomcat11/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

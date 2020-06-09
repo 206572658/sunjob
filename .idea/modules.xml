@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java - xuliehua/Java - xuliehua.iml" filepath="$PROJECT_DIR$/Java - xuliehua/Java - xuliehua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-fanxuliehua/Java-fanxuliehua.iml" filepath="$PROJECT_DIR$/Java-fanxuliehua/Java-fanxuliehua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82/s82.iml" filepath="$PROJECT_DIR$/s82/s82.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82web03/s82web03.iml" filepath="$PROJECT_DIR$/s82web03/s82web03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82web07/s82web07.iml" filepath="$PROJECT_DIR$/s82web07/s82web07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82web09/s82web09.iml" filepath="$PROJECT_DIR$/s82web09/s82web09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82webtomact05/s82webtomact05.iml" filepath="$PROJECT_DIR$/s82webtomact05/s82webtomact05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82webtomcat03/s82webtomcat03.iml" filepath="$PROJECT_DIR$/s82webtomcat03/s82webtomcat03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82webtomcat06/s82webtomcat06.iml" filepath="$PROJECT_DIR$/s82webtomcat06/s82webtomcat06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82webtomcat07/s82webtomcat07.iml" filepath="$PROJECT_DIR$/s82webtomcat07/s82webtomcat07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82webtomcat08/s82webtomcat08.iml" filepath="$PROJECT_DIR$/s82webtomcat08/s82webtomcat08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82webtomcat09/s82webtomcat09.iml" filepath="$PROJECT_DIR$/s82webtomcat09/s82webtomcat09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82webtomcat10/s82webtomcat10.iml" filepath="$PROJECT_DIR$/s82webtomcat10/s82webtomcat10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s82webtomcat11/s82webtomcat11.iml" filepath="$PROJECT_DIR$/s82webtomcat11/s82webtomcat11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunjob.iml" filepath="$PROJECT_DIR$/sunjob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/罗勇 排序/罗勇 排序.iml" filepath="$PROJECT_DIR$/罗勇 排序/罗勇 排序.iml" />
+    </modules>
+  </component>
+</project>

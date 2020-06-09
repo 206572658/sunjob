@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="s82" />
+        <module name="s82web03" />
+        <module name="s82webtomact05" />
+        <module name="s82webtomcat09" />
+        <module name="s82webtomcat08" />
+        <module name="s82webtomcat07" />
+        <module name="s82webtomcat06" />
+        <module name="s82webtomcat10" />
+        <module name="s82webtomcat03" />
+        <module name="s82web09" />
+        <module name="s82webtomcat11" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="s82" target="1.7" />
+      <module name="s82web03" target="1.7" />
+      <module name="s82web07" target="1.7" />
+      <module name="s82web09" target="1.7" />
+      <module name="s82webtomact05" target="1.7" />
+      <module name="s82webTomcat" target="1.7" />
+      <module name="s82webtomcat02" target="1.5" />
+      <module name="s82webtomcat03" target="1.7" />
+      <module name="s82webtomcat06" target="1.7" />
+      <module name="s82webtomcat07" target="1.7" />
+      <module name="s82webtomcat08" target="1.7" />
+      <module name="s82webtomcat09" target="1.7" />
+      <module name="s82webtomcat10" target="1.7" />
+      <module name="s82webtomcat11" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
